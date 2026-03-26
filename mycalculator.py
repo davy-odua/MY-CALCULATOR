@@ -3,7 +3,6 @@
 #1). (-----MY CALCULATOR-----)
 #2). Basic operators: ('+','-','*','/','^','%')
 #3). Advanced operators: (log, sqrt)
-
 import math
 
 print("-----MY CALCULATOR-----")
@@ -64,4 +63,3 @@ while calculating:
     continu_e = input("Continue (y/n): ").lower()
     if continu_e == "n":
         break
-
